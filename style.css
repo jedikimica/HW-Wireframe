@@ -14,14 +14,12 @@
   header {
     padding: 20px;
     margin-bottom: 20px;
-    color: slategray;
     background: snow;
   }
   nav {
-      padding: 20px;
-      margin-bottom: 20px;
-      color:slategray;
-      background-color: snow
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: snow
   }
   section {
     padding: 20px;
@@ -49,12 +47,12 @@
     
   }
   h1 {
-      height: 55px;
-      width: 90%;
-      padding: 5px;
-      margin-bottom: 1px;
-      margin-left: 20px;
-      background: snow;
+    height: 55px;
+    width: 90%;
+    padding: 5px;
+    margin-bottom: 1px;
+    margin-left: 20px;
+    background: snow;
       
       
   }
